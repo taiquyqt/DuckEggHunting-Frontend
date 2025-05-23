@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Dotenv config
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor config
+.vscode/
+.idea/
+
+# Log files
+*.log
+logs/
+*.pid
+
+# OS files
+*.swp
+*.swo
+
+# Backup or temp files
+*~
+*.bak
+*.tmp
+
+# Git
+*.orig
